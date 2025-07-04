@@ -11,6 +11,15 @@ console.log(Name);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+const Number = 3;
+console.log(Number);
+
+const Text = "Tipi primitivi";
+console.log(Text);
+
+const Bool = "true";
+console.log(Bool === "True");
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente
 // in console la stringa con il nome completo
