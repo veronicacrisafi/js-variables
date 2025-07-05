@@ -12,13 +12,12 @@ console.log(Name);
 // Stampa tutti i valori nella console.
 
 const Number = 3;
-console.log(typeof 3);
 
 const Text = "Tipi primitivi";
-console.log(typeof "Tipi primitivi");
 
-const Bool = "true";
-console.log(Bool === "True");
+const Bool = true;
+
+console.log(Number, Text, Bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente
