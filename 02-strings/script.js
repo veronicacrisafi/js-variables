@@ -12,10 +12,10 @@ console.log(Name);
 // Stampa tutti i valori nella console.
 
 const Number = 3;
-console.log(Number);
+console.log(typeof 3);
 
 const Text = "Tipi primitivi";
-console.log(Text);
+console.log(typeof "Tipi primitivi");
 
 const Bool = "true";
 console.log(Bool === "True");
